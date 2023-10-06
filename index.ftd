@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Vishesh_singh ,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -116,11 +116,11 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Visheshsinghh
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/visheshwasnttaken
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
@@ -218,11 +218,11 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Visheshsinghh
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/visheshwasnttaken
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
